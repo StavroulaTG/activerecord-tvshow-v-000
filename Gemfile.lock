@@ -63,7 +63,7 @@ DEPENDENCIES
   database_cleaner
   pry
   rake (= 12.3.2)
-  rspec (~> 3.4.0)
+  rspec
   sinatra-activerecord
   sqlite3 (~> 1.3.6)
 
